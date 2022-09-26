@@ -1,5 +1,5 @@
 #Juan Ignacio Lebrija    A01721659   Oct 2021
-#   The porpuse of this program is to first, generate a 6x6 board with two letter A's on the positions 2,0 and 3,0
+#   The purpose of this program is to first, generate a 6x6 board with two letter A's on the positions 2,0 and 3,0
 #   and then generate 6 *'s across the board but not on the exterior lines and columns.
 import random
 from random import randrange
